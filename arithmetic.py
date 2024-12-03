@@ -1,0 +1,10 @@
+a=4
+b=2
+add=a+b
+sub=a-b
+mult=a*b
+div=a/b
+print(add)
+print(sub)
+print(mult)
+print(div)
